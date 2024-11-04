@@ -1,4 +1,4 @@
-# Ynov Networks Cyber Security Lessons
+# Networks Cyber Security Course
 
 ## Plan du cours
 
