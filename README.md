@@ -12,10 +12,10 @@
 - [Pratique](./PART_00/PRATIQUE/)
 
   - [TP 00](./PART_00/PRATIQUE/TP_00.md)
+  - [TP 01](./PART_00/PRATIQUE/TP_01.md)
 
 Coming Soon
 
-  - [TP 01](./PART_00/PRATIQUE/TP_01.md)
   - [TP 02](./PART_00/PRATIQUE/TP_02.md)
   - [TP 03](./PART_00/PRATIQUE/TP_03.md)
   - [TP 04 : noté](./PART_00/PRATIQUE/TP_04.md)
