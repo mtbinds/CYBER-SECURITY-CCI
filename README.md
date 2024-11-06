@@ -24,15 +24,13 @@
   - [Sécurité des Réseaux](./PART_01/THEORIE/PART_00.md)
   - [Sécurité des Données et Fonctions de Sécurité Réseau](./PART_01/THEORIE/PART_01.md) 
 
-Coming Soon
-
 - [Pratique](./PART_01/PRATIQUE/)
   
   - [TP 00 : noté](./PART_01/PRATIQUE/TP_00.md) 
-  
-Coming Soon  
-  
   - [TP 01](./PART_01/PRATIQUE/TP_01.md) 
+
+Coming Soon
+
   - [TP 02 : noté](./PART_01/PRATIQUE/TP_02.md) 
   - [TP 03 : noté](./PART_01/PRATIQUE/TP_03.md) 
   - [TP 04](./PART_01/PRATIQUE/TP_04.md) 
