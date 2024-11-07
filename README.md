@@ -30,10 +30,10 @@
   - [TP 01](./PART_01/PRATIQUE/TP_01.md) 
   - [TP 02 : noté](./PART_01/PRATIQUE/TP_02.md)
   - [TP 03 : noté](./PART_01/PRATIQUE/TP_03.md)
-
-  Coming Soon
-   
   - [TP 04](./PART_01/PRATIQUE/TP_04.md) 
+
+ Coming Soon
+
   - [TP 05 : noté](./PART_01/PRATIQUE/TP_05.md)
   - [TP 06](./PART_01/PRATIQUE/TP_06.md)
 
